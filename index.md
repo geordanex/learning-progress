@@ -10,6 +10,14 @@ El objetivo final es obtener la certificacion [OSCP](https://www.offensive-secur
 3. OSCP?
 ```
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ### Contacto?
 
 Te dejo mi info [ACA](https://github.com/geordanex/geordanex)
