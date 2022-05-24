@@ -1,3 +1,4 @@
 theme: jekyll-theme-merlot
 title: Road to OSCP
 description: Este sera un diario del proceso de aprendizaje, por si a alguien le llega a ser util
+theme: minima
